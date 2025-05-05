@@ -1,0 +1,62 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+.bg-green-terra {
+    background-color: #1e4e20;
+}
+
+.navbar.bg-green-terra {
+    height: 85px; /* altura desejada da navbar */
+  }
+
+.navbar .navbar-brand img {
+    height: 100%;
+    width: auto; /* mantém a proporção */
+  }
+
+.hero {
+background-color: #40916c;
+color: white;
+padding: 100px 20px;
+text-align: center;
+}
+
+.cta-button {
+margin-top: 30px;
+}
+
+footer {
+background-color: #2d6a4f;
+color: white;
+padding: 20px;
+text-align: center;
+}
+
+a {
+color: white;
+}
+
+.section-title {
+margin-bottom: 40px;
+}
+
+.team-img {
+border-radius: 50%;
+width: 150px;
+height: 150px;
+object-fit: cover;
+}
+
+#contate-nos {
+background-color: #40916c;
+}
+
+#contate-nos a {
+color: #fff;
+text-decoration: none;
+}
+
+#contate-nos a:hover {
+text-decoration: underline;
+}
